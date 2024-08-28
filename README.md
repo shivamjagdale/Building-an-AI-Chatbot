@@ -4,10 +4,9 @@ Building an AI Chatbot
 Here we have to complete various things and it can be hard to remember all of them so here's the list of things to do :- 
 
 2) In gemini_utility.py:
+●import all the dependencies and the google liabraries 
 
-import all the dependencies and the google liabraries 
-
-configure the path
+●configure the path
 
 Then path for the json file and then load it. 
 Then load the model for chatbot 
