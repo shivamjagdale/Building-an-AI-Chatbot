@@ -36,3 +36,25 @@ This code is kinda complicated and here are the steps we need to follow :-
 
 -- Display the gemini ai's response
 
+
+2) Now for image captioning (In main.py)
+
+● Selected Image Captioning
+
+● Make a title
+
+● Now create a box where the user can upload the image
+
+● Now create a button
+
+● Create 2 columns 
+
+● In 1st column display the image 
+
+● Now create a default prompt 
+
+● Get the response from gemini pro model
+
+● Now display the caption in column 2
+
+
