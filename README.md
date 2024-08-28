@@ -2,7 +2,8 @@
 
 This code is kinda complicated and here are the steps we need to follow :- 
 
-**2) In gemini_utility.py:
+**2) In gemini_utility.py:  
+
 import all the dependencies and the google liabraries /n
 configure the path
 Then path for the json file and then load it. 
